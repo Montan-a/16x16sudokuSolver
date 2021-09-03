@@ -1,5 +1,10 @@
 # 16x16sudokuSolver
 sudoku puzzle solver: java programming class assignment
+
+
+
+
+
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
